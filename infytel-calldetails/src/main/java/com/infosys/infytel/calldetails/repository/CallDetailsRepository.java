@@ -1,7 +1,7 @@
 package com.infosys.infytel.calldetails.repository;
 
 import java.util.List;
-//comment added newly added
+//comment added newly added again
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import com.infosys.infytel.calldetails.entity.CallDetails;
